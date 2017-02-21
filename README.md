@@ -1,6 +1,6 @@
 # Blog Post API Assignment
 
-Hello!
+Hello
 
 This repository contains everything that you need to complete your assignment.
 
