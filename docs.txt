@@ -1,0 +1,9 @@
+Setup python and install the requirements using the command:
+
+$ pip install -r requirements.txt
+
+Then run the program using:
+
+$ python run.py
+
+the server will run on http://127.0.0.1:5000/ by default
